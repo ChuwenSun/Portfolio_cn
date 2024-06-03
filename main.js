@@ -88,7 +88,7 @@ function showSlides(n, no) {
   dots[slideIndex[no] - 1].className += " active";
 }
 
-let date = new Date();
-let year = date.getFullYear();
-let yearSpan = document.getElementById("year");
-yearSpan.textContent = year;
+// let date = new Date();
+// let year = date.getFullYear();
+// let yearSpan = document.getElementById("year");
+// yearSpan.textContent = year;
